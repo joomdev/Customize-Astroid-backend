@@ -1,4 +1,4 @@
-# Customize-Astroid-backend
+# Customize Astroid Backend
 
 You can create a Joomla plugin type _system_ with function _onBeforeAstroidAdminRender_ and that should give you control over the Astroid backend.
 
